@@ -1,4 +1,4 @@
-# An Introduction to Sass in Rails
+# An Introduction to Sass in Rails#
 Sass (Syntactically Awesome Stylesheets) is a very user-friendly implementation of CSS. In my previous post, I gave a broad overview of Sass. Here, I will describe in more detail the features found in Sass. I had written that Sass permitted the use of variables to store hex values and perform arithmetic operations with colors, thus reducing complexity, but it can also do much more.
 
 ## Nesting
